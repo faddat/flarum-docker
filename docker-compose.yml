@@ -1,4 +1,0 @@
-flarum:
-  build: flarum
-  ports:
-    - "80:80"
